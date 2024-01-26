@@ -1,2 +1,1 @@
-# DEFAULT-NODEJS-TEMPLATE
-NodeJS Default
+# Default Node.js Project Template
